@@ -78,10 +78,7 @@ export default function Header() {
                 <Link href={"/"} className="hover:text-gray-400 duration-500">
                   Recent Deals
                 </Link>
-                <Link
-                  href={"/about-us"}
-                  className="hover:text-gray-400 duration-500"
-                >
+                <Link href={"/"} className="hover:text-gray-400 duration-500">
                   Contact Us
                 </Link>
               </section>
