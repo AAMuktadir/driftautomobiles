@@ -8,7 +8,7 @@ export default function FirstSection() {
         <div className="">
           <h4 className="">Drift Automobiles</h4>
           <h4 className="pt-8 sm:pt-40 uppercase text-[12px] sm:text-[20px] text-center">
-            coming soon
+            This website is under construction
           </h4>
         </div>
       </div>
